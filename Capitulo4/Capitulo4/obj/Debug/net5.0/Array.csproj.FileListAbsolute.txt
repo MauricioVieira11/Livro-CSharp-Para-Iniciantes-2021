@@ -1,0 +1,16 @@
+C:\Users\mauri\source\repos\Capitulo4\Capitulo4\bin\Debug\net5.0\Array.exe
+C:\Users\mauri\source\repos\Capitulo4\Capitulo4\bin\Debug\net5.0\Array.deps.json
+C:\Users\mauri\source\repos\Capitulo4\Capitulo4\bin\Debug\net5.0\Array.runtimeconfig.json
+C:\Users\mauri\source\repos\Capitulo4\Capitulo4\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\Capitulo4\Capitulo4\bin\Debug\net5.0\Array.dll
+C:\Users\mauri\source\repos\Capitulo4\Capitulo4\bin\Debug\net5.0\ref\Array.dll
+C:\Users\mauri\source\repos\Capitulo4\Capitulo4\bin\Debug\net5.0\Array.pdb
+C:\Users\mauri\source\repos\Capitulo4\Capitulo4\obj\Debug\net5.0\Array.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\Capitulo4\Capitulo4\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\Capitulo4\Capitulo4\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\Capitulo4\Capitulo4\obj\Debug\net5.0\Array.AssemblyInfo.cs
+C:\Users\mauri\source\repos\Capitulo4\Capitulo4\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Capitulo4\Capitulo4\obj\Debug\net5.0\Array.dll
+C:\Users\mauri\source\repos\Capitulo4\Capitulo4\obj\Debug\net5.0\ref\Array.dll
+C:\Users\mauri\source\repos\Capitulo4\Capitulo4\obj\Debug\net5.0\Array.pdb
+C:\Users\mauri\source\repos\Capitulo4\Capitulo4\obj\Debug\net5.0\Array.genruntimeconfig.cache
