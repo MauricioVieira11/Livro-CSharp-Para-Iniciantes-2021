@@ -1,0 +1,16 @@
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\PrimeiraClasse\bin\Debug\net5.0\PrimeiraClasse.exe
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\PrimeiraClasse\bin\Debug\net5.0\PrimeiraClasse.deps.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\PrimeiraClasse\bin\Debug\net5.0\PrimeiraClasse.runtimeconfig.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\PrimeiraClasse\bin\Debug\net5.0\PrimeiraClasse.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\PrimeiraClasse\bin\Debug\net5.0\PrimeiraClasse.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\PrimeiraClasse\bin\Debug\net5.0\ref\PrimeiraClasse.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\PrimeiraClasse\bin\Debug\net5.0\PrimeiraClasse.pdb
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\PrimeiraClasse\obj\Debug\net5.0\PrimeiraClasse.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\PrimeiraClasse\obj\Debug\net5.0\PrimeiraClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\PrimeiraClasse\obj\Debug\net5.0\PrimeiraClasse.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\PrimeiraClasse\obj\Debug\net5.0\PrimeiraClasse.AssemblyInfo.cs
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\PrimeiraClasse\obj\Debug\net5.0\PrimeiraClasse.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\PrimeiraClasse\obj\Debug\net5.0\PrimeiraClasse.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\PrimeiraClasse\obj\Debug\net5.0\ref\PrimeiraClasse.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\PrimeiraClasse\obj\Debug\net5.0\PrimeiraClasse.pdb
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\PrimeiraClasse\obj\Debug\net5.0\PrimeiraClasse.genruntimeconfig.cache

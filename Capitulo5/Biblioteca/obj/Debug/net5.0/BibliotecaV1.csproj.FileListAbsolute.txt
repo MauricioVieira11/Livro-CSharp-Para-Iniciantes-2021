@@ -1,0 +1,16 @@
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\Biblioteca\bin\Debug\net5.0\BibliotecaV1.exe
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\Biblioteca\bin\Debug\net5.0\BibliotecaV1.deps.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\Biblioteca\bin\Debug\net5.0\BibliotecaV1.runtimeconfig.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\Biblioteca\bin\Debug\net5.0\BibliotecaV1.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\Biblioteca\bin\Debug\net5.0\BibliotecaV1.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\Biblioteca\bin\Debug\net5.0\ref\BibliotecaV1.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\Biblioteca\bin\Debug\net5.0\BibliotecaV1.pdb
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\Biblioteca\obj\Debug\net5.0\BibliotecaV1.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\Biblioteca\obj\Debug\net5.0\BibliotecaV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\Biblioteca\obj\Debug\net5.0\BibliotecaV1.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\Biblioteca\obj\Debug\net5.0\BibliotecaV1.AssemblyInfo.cs
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\Biblioteca\obj\Debug\net5.0\BibliotecaV1.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\Biblioteca\obj\Debug\net5.0\BibliotecaV1.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\Biblioteca\obj\Debug\net5.0\ref\BibliotecaV1.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\Biblioteca\obj\Debug\net5.0\BibliotecaV1.pdb
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo5\Biblioteca\obj\Debug\net5.0\BibliotecaV1.genruntimeconfig.cache
