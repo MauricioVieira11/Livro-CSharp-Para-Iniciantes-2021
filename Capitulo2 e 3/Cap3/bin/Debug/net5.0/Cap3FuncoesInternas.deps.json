@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Cap3FuncoesInternas/1.0.0": {
+        "runtime": {
+          "Cap3FuncoesInternas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cap3FuncoesInternas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

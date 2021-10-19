@@ -1,0 +1,16 @@
+C:\Users\mauri\source\repos\SistemaBancario\Cap3\obj\Debug\net5.0\Cap3FuncoesInternas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\SistemaBancario\Cap3\obj\Debug\net5.0\Cap3FuncoesInternas.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\SistemaBancario\Cap3\obj\Debug\net5.0\Cap3FuncoesInternas.AssemblyInfo.cs
+C:\Users\mauri\source\repos\SistemaBancario\Cap3\obj\Debug\net5.0\Cap3FuncoesInternas.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\SistemaBancario\Cap3\bin\Debug\net5.0\Cap3FuncoesInternas.exe
+C:\Users\mauri\source\repos\SistemaBancario\Cap3\bin\Debug\net5.0\Cap3FuncoesInternas.deps.json
+C:\Users\mauri\source\repos\SistemaBancario\Cap3\bin\Debug\net5.0\Cap3FuncoesInternas.runtimeconfig.json
+C:\Users\mauri\source\repos\SistemaBancario\Cap3\bin\Debug\net5.0\Cap3FuncoesInternas.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\SistemaBancario\Cap3\bin\Debug\net5.0\Cap3FuncoesInternas.dll
+C:\Users\mauri\source\repos\SistemaBancario\Cap3\bin\Debug\net5.0\ref\Cap3FuncoesInternas.dll
+C:\Users\mauri\source\repos\SistemaBancario\Cap3\bin\Debug\net5.0\Cap3FuncoesInternas.pdb
+C:\Users\mauri\source\repos\SistemaBancario\Cap3\obj\Debug\net5.0\Cap3FuncoesInternas.dll
+C:\Users\mauri\source\repos\SistemaBancario\Cap3\obj\Debug\net5.0\ref\Cap3FuncoesInternas.dll
+C:\Users\mauri\source\repos\SistemaBancario\Cap3\obj\Debug\net5.0\Cap3FuncoesInternas.pdb
+C:\Users\mauri\source\repos\SistemaBancario\Cap3\obj\Debug\net5.0\Cap3FuncoesInternas.genruntimeconfig.cache
+C:\Users\mauri\source\repos\SistemaBancario\Cap3\obj\Debug\net5.0\Cap3FuncoesInternas.csproj.AssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\mauri\source\repos\SistemaBancario\SistemaBancario\obj\Debug\net5.0\Cap2SistemaBancario.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\SistemaBancario\SistemaBancario\obj\Debug\net5.0\Cap2SistemaBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\SistemaBancario\SistemaBancario\obj\Debug\net5.0\Cap2SistemaBancario.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\SistemaBancario\SistemaBancario\obj\Debug\net5.0\Cap2SistemaBancario.AssemblyInfo.cs
+C:\Users\mauri\source\repos\SistemaBancario\SistemaBancario\obj\Debug\net5.0\Cap2SistemaBancario.csproj.CoreCompileInputs.cache
