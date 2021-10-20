@@ -1,0 +1,15 @@
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Funcao\bin\Debug\net5.0\Funcao.exe
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Funcao\bin\Debug\net5.0\Funcao.deps.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Funcao\bin\Debug\net5.0\Funcao.runtimeconfig.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Funcao\bin\Debug\net5.0\Funcao.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Funcao\bin\Debug\net5.0\Funcao.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Funcao\bin\Debug\net5.0\ref\Funcao.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Funcao\bin\Debug\net5.0\Funcao.pdb
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Funcao\obj\Debug\net5.0\Funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Funcao\obj\Debug\net5.0\Funcao.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Funcao\obj\Debug\net5.0\Funcao.AssemblyInfo.cs
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Funcao\obj\Debug\net5.0\Funcao.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Funcao\obj\Debug\net5.0\Funcao.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Funcao\obj\Debug\net5.0\ref\Funcao.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Funcao\obj\Debug\net5.0\Funcao.pdb
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Funcao\obj\Debug\net5.0\Funcao.genruntimeconfig.cache

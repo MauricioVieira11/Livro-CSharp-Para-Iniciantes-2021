@@ -1,0 +1,16 @@
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Course\bin\Debug\net5.0\Course.exe
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Course\bin\Debug\net5.0\Course.deps.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Course\bin\Debug\net5.0\Course.runtimeconfig.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Course\bin\Debug\net5.0\Course.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Course\bin\Debug\net5.0\Course.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Course\bin\Debug\net5.0\ref\Course.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Course\bin\Debug\net5.0\Course.pdb
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Course\obj\Debug\net5.0\Course.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Course\obj\Debug\net5.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Course\obj\Debug\net5.0\Course.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Course\obj\Debug\net5.0\Course.AssemblyInfo.cs
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Course\obj\Debug\net5.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Course\obj\Debug\net5.0\Course.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Course\obj\Debug\net5.0\ref\Course.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Course\obj\Debug\net5.0\Course.pdb
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Course\obj\Debug\net5.0\Course.genruntimeconfig.cache

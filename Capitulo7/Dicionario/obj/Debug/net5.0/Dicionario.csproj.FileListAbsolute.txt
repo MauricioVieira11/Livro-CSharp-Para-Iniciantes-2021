@@ -1,0 +1,15 @@
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Dicionario\bin\Debug\net5.0\Dicionario.exe
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Dicionario\bin\Debug\net5.0\Dicionario.deps.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Dicionario\bin\Debug\net5.0\Dicionario.runtimeconfig.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Dicionario\bin\Debug\net5.0\Dicionario.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Dicionario\bin\Debug\net5.0\Dicionario.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Dicionario\bin\Debug\net5.0\ref\Dicionario.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Dicionario\bin\Debug\net5.0\Dicionario.pdb
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Dicionario\obj\Debug\net5.0\Dicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Dicionario\obj\Debug\net5.0\Dicionario.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Dicionario\obj\Debug\net5.0\Dicionario.AssemblyInfo.cs
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Dicionario\obj\Debug\net5.0\Dicionario.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Dicionario\obj\Debug\net5.0\Dicionario.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Dicionario\obj\Debug\net5.0\ref\Dicionario.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Dicionario\obj\Debug\net5.0\Dicionario.pdb
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo7\Dicionario\obj\Debug\net5.0\Dicionario.genruntimeconfig.cache
