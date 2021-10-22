@@ -1,0 +1,16 @@
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Hospital\bin\Debug\net5.0\Hospital.exe
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Hospital\bin\Debug\net5.0\Hospital.deps.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Hospital\bin\Debug\net5.0\Hospital.runtimeconfig.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Hospital\bin\Debug\net5.0\Hospital.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Hospital\bin\Debug\net5.0\Hospital.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Hospital\bin\Debug\net5.0\ref\Hospital.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Hospital\bin\Debug\net5.0\Hospital.pdb
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Hospital\obj\Debug\net5.0\Hospital.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Hospital\obj\Debug\net5.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Hospital\obj\Debug\net5.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Hospital\obj\Debug\net5.0\Hospital.AssemblyInfo.cs
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Hospital\obj\Debug\net5.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Hospital\obj\Debug\net5.0\Hospital.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Hospital\obj\Debug\net5.0\ref\Hospital.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Hospital\obj\Debug\net5.0\Hospital.pdb
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Hospital\obj\Debug\net5.0\Hospital.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Capitulo9\bin\Debug\net5.0\Capitulo9.exe
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Capitulo9\bin\Debug\net5.0\Capitulo9.deps.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Capitulo9\bin\Debug\net5.0\Capitulo9.runtimeconfig.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Capitulo9\bin\Debug\net5.0\Capitulo9.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Capitulo9\bin\Debug\net5.0\Capitulo9.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Capitulo9\bin\Debug\net5.0\ref\Capitulo9.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Capitulo9\bin\Debug\net5.0\Capitulo9.pdb
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Capitulo9\obj\Debug\net5.0\Capitulo9.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Capitulo9\obj\Debug\net5.0\Capitulo9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Capitulo9\obj\Debug\net5.0\Capitulo9.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Capitulo9\obj\Debug\net5.0\Capitulo9.AssemblyInfo.cs
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Capitulo9\obj\Debug\net5.0\Capitulo9.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Capitulo9\obj\Debug\net5.0\Capitulo9.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Capitulo9\obj\Debug\net5.0\ref\Capitulo9.dll
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Capitulo9\obj\Debug\net5.0\Capitulo9.pdb
+C:\Users\mauri\source\repos\LivroC#Para Iniciantes\Capitulo9\Capitulo9\obj\Debug\net5.0\Capitulo9.genruntimeconfig.cache
