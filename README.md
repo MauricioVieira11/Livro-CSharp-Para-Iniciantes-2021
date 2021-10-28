@@ -11,3 +11,5 @@ Capitulo 5: Programação Orientada Objetos;Abstração, encapsulamento, Heranç
 Capitulo 6: TRatamento de exceções: try..catch...finally
 
 Capitulo 7: Métodos de extensão, dicionarios, parâmetros opcionais e delegates com func<>
+
+Capitulo 9: remover using, interpolação de strings, propagação de nulos em coleções.
